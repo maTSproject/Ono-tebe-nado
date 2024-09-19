@@ -1,1 +1,1 @@
-https://github.com/maTSproject/first-project.git
+https://github.com/maTSproject/ono-tebe-nado.git
