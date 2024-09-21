@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 1052px;
+    height: 105px;
+}
+
+.header__menu {
+    width: 1052px;
+    height: 105px;
+}
+
+.header__logo {
+    width: 148px;
+    height: 105px;
+}
+
+
