@@ -25,6 +25,10 @@ body {
     list-style: none;
 }
 
+.header__link_decoration {
+    text-decoration: none;
+}
+
 .header__logo {
     display: block;
     width: 134px;
@@ -261,7 +265,7 @@ body {
 .footer {
     display: flex;
     justify-content: space-between;
-    margin: 180px 48px;
+    margin: 180px 48px 88px 48px;
     font-size: 18px;
     width: 1000px;
 }
@@ -284,4 +288,8 @@ body {
 .footer__social-icon {
     width: 48px;
     height: 48px;
+}
+
+.footer__menu-link_active {
+    text-decoration: none;
 }
